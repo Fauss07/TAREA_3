@@ -1,0 +1,28 @@
+/*
+color-primario:#00ffff
+color-secundario:#d2691e
+color-terciario:#000000
+color-cuarto:#faebd7
+
+*/
+.classColor{
+    background-color: rgb(241, 128, 0);
+    font-size:xx-large ;
+}
+.class2{
+    background-color: rgb(236, 200, 153);
+    font-size: large;
+    font-family:"lucila Console","Courier New", monospace;
+    
+}
+.class3{
+    background-color: black;
+    color: aliceblue;
+    font-family:"lucila Console","Courier New", monospace;
+}
+.class4{
+    text-decoration: none;
+}
+div,dl,form{
+    font-weight: bold;
+}
